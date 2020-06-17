@@ -51,7 +51,7 @@ https://help.github.com/en/actions/configuring-and-managing-workflows/configurin
 
 15. open website in browser
 
-http://bootcamp2020_sample1.surge.sh/
+http://msh_bootcamp_1.surge.sh/
 
 16. Submit your github repo URL here in the issues of the assignment repo
 
